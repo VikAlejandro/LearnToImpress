@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "811991960546",
+    "project_id": "learntoimpress-92e60",
+    "storage_bucket": "learntoimpress-92e60.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811991960546:android:9fe339ea0fd43b78e707bb",
+        "android_client_info": {
+          "package_name": "com.UnityTechnologies.com.unity.template.urpblank"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP-a1BgA6S5W8rU-dKhHoXjgQwGgcxfxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
